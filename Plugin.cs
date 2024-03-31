@@ -14,7 +14,7 @@ public class Plugin : BaseUnityPlugin
     {
         // Plugin load logic goes here!
         // This script acts like a unity object.
-        Logger.LogInfo($"moreCash Active");
+        Logger.LogInfo($"startingCash Active");
         harmony.PatchAll(typeof(moreCash));
     }
 
