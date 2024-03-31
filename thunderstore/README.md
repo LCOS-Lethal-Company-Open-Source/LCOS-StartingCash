@@ -1,4 +1,7 @@
-# Template Mod
+# LCOS-Starting Cash
 
-Put your description here!
+Gives you 1000 cash at the start of a round.
+
+Created by Jackson Baimel
+
 Default icon by @lilujk on github.
