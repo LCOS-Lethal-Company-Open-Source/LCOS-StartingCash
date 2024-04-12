@@ -1,6 +1,6 @@
 {
     "name": "Starting_Cash",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-StartingCash",
     "description": "Gives you 1000 cash at the start of a round. Created by Jackson Baimel within RCOS.",
     "dependencies": [
